@@ -1,3 +1,5 @@
 1) git init = yangi loyiha uchun start berish =  git intialize
 2) git add index.html = git hubga joylamoqchi bo'lgan faylni .git papkaga qoshadi
 3) git status = .git papkaga fayllar qo'shilgani yoki qo'shilmaganini tekshiradi
+4) git add . = hamma fayllarni .git papkaga qo'shadi birdaniga
+5) 
